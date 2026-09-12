@@ -1,10 +1,15 @@
 # Ferreteria
 
+▄▀█▀▄▀█▀▄▀█▀▄
+█▄▀▄▀█▄▀▄▀█▄▀
+▄▀█▀▄▀█▀▄▀█▀▄
+█▄▀█▄▀█▄▀▄▀█▄
+
 API de gestión de productos para una ferretería, construida con Spring Boot.
 
 ## Descripción
 
-Este proyecto es una aplicación de gestión de productos para una ferretería, desarrollado como parte del curso de **Desarrollo de APIs con Spring Boot** de TODO CODO Academy. La base del proyecto se inspiró en los ejercicios y ejemplos vistos durante el curso.
+Este proyecto es una aplicación de gestión de productos para una ferretería, desarrollado como parte del curso de **Desarrollo de APIs con Spring Boot** de **TODO CODO Academy**. La base del proyecto se inspiró en los ejercicios y ejemplos vistos durante el curso.
 
 ## Tecnologías
 
